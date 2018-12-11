@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['xformat',['xformat',['../class_error_handler.html#a0eca33fde33d8c030dd1501e0502f75f',1,'ErrorHandler::xformat(int default_flags, const char *fmt,...)'],['../class_error_handler.html#ad27368d5e1dc80fd4fb71afd4b0326ec',1,'ErrorHandler::xformat(const char *fmt,...)']]],
+  ['xmessage',['xmessage',['../class_error_handler.html#a505c6179fede13b1132462960888ec61',1,'ErrorHandler::xmessage(const String &amp;str)'],['../class_error_handler.html#a9a9ac99d9248295c3a01298794ed3485',1,'ErrorHandler::xmessage(const String &amp;anno, const String &amp;str)'],['../class_error_handler.html#a0debf911915a969ea508483726a0a17f',1,'ErrorHandler::xmessage(const String &amp;anno, const char *fmt, va_list val)'],['../class_error_handler.html#a54a597486cb94e28a2ec88555c9115b8',1,'ErrorHandler::xmessage(const String &amp;landmark, const String &amp;anno, const String &amp;str)'],['../class_error_handler.html#a98b871f4c216a44a01d6ac1f9119296a',1,'ErrorHandler::xmessage(const String &amp;landmark, const String &amp;anno, const char *fmt, va_list val)']]]
+];

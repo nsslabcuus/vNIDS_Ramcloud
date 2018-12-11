@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['ticks_5ftype',['ticks_type',['../class_token_rate_x.html#a489f390a306bf2fd804e9e6532ace0e4',1,'TokenRateX::ticks_type()'],['../class_token_counter_x.html#a86e5e00b8c711952b8766a00827d136a',1,'TokenCounterX::ticks_type()'],['../class_token_bucket_x.html#a35676a5862aeb0b8b9c393cd0cb7d9b5',1,'TokenBucketX::ticks_type()']]],
+  ['time_5fpoint_5ftype',['time_point_type',['../class_token_rate_x.html#a9af8bb239dcabd65b3c30688ddc5c3fb',1,'TokenRateX::time_point_type()'],['../class_token_counter_x.html#afa3563a57c9f0b25530ca4bff4da8d35',1,'TokenCounterX::time_point_type()'],['../class_token_bucket_jiffy_parameters.html#a6ccf7be3a7d1145f0cf723630a6e72e5',1,'TokenBucketJiffyParameters::time_point_type()'],['../class_token_bucket_x.html#a9012892560b20a47e646372b57ee64de',1,'TokenBucketX::time_point_type()']]],
+  ['token_5ftype',['token_type',['../class_token_rate_x.html#a8932d7e0aa680dcbaedeaeff7edc2a2c',1,'TokenRateX::token_type()'],['../class_token_counter_x.html#af7e5607750cc70877fdab2f5d1a0335e',1,'TokenCounterX::token_type()'],['../class_token_bucket_jiffy_parameters.html#a43b6324bc869a6ca7f0407dffd5a4392',1,'TokenBucketJiffyParameters::token_type()'],['../class_token_bucket_x.html#afd1ffa3fc244f0700a75b57f13799012',1,'TokenBucketX::token_type()']]]
+];

@@ -1,0 +1,10 @@
+This directory contains a library needed by generated C++ code from
+binpac. Note that the library is not needed by the binpac compiler
+itself.
+
+This library not depend on Bro. It change the Regex file.
+So, you need to install some pcrelib if you want to use this lib.
+
+For Ubuntu:
+$sudo apt-get update
+$sudo apt-get install libpcre3 libpcre3-dev
